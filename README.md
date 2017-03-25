@@ -4,14 +4,11 @@ good project structure with perfect workflow to start your awesome project!
 # how to use it
 
 1. At first, you need [Node.js](https://nodejs.org/en/download/) installed on your system;
-2. If you have already installed node.js, simply run 
-```bash
-npm install bower -g
-```
-to install bower in your system.
+2. If you have already installed node.js, simply run `npm install bower -g` to install bower in your system.
 3. Load all dev dependencies of the project - simply run:
 ```bash
 npm install
+```
 ```bash
 bower install 
 ```
